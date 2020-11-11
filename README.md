@@ -1,5 +1,17 @@
 # Import your MD file to your Notion Page
 
+### before getting started...
+
+You should be set up `python3` and `md2notion` library.
+
+`pip install md2notion`
+
+https://github.com/Cobertos/md2notion
+
+### and...
+
+it just simple bash script file. It simply fixes the directory where the md file to import will be saved.
+
 ## How to use?
 
 - Open your browser and enter your notion pages.
